@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google/argh/commit/939affd3acc60395bb34749cabb80cc19bcd20eb",
       "git:hexsha": "939affd3acc60395bb34749cabb80cc19bcd20eb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google/argh/commit/3f3c29726a21c4b541bb2b9aa2c592461897ded0",
